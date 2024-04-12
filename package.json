@@ -1,6 +1,6 @@
 {
   "name": "push-receiver",
-  "version": "2.1.1",
+  "version": "1.0.0",
   "description":
     "A module to subscribe to GCM/FCM and receive notifications within a node process.",
   "main": "src/index.js",
@@ -38,7 +38,7 @@
     "electron",
     "receiver"
   ],
-  "author": "MatthieuLemoine",
+  "author": "dneeraj123",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MatthieuLemoine/push-receiver/issues"
@@ -58,7 +58,7 @@
     "yargs": "^10.0.3"
   },
   "dependencies": {
-    "http_ece": "^1.0.5",
+    "@dneeraj123/http_ece": "1.0.0",
     "long": "^3.2.0",
     "protobufjs": "^6.8.0",
     "request": "^2.81.0",

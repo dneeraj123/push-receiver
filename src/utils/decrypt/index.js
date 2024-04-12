@@ -1,5 +1,5 @@
 const crypto = require('crypto');
-const ece = require('http_ece');
+const ece = require('@dneeraj123/http_ece');
 
 module.exports = decrypt;
 
