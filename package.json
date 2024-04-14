@@ -41,9 +41,9 @@
   "author": "dneeraj123",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MatthieuLemoine/push-receiver/issues"
+    "url": "https://github.com/dneeraj123/push-receiver/issues"
   },
-  "homepage": "https://github.com/MatthieuLemoine/push-receiver#readme",
+  "homepage": "https://github.com/dneeraj123/push-receiver#readme",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.4.1",
