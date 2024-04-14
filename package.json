@@ -1,8 +1,8 @@
 {
   "name": "@dneeraj123/push-receiver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
-    "A module to subscribe to GCM/FCM and receive notifications within a node process.",
+    "A module to subscribe to GCM/FCM and receive notifications within a node process. Addresses node v18 issue",
   "main": "src/index.js",
   "scripts": {
     "start": "node scripts/listen",
